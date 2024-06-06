@@ -24,5 +24,10 @@ fps: frames per second
 
 airdens_kgm3: air density, kg/m^3
 
-air dynamic viscosity: Pascal * second
+dynvisc_pas: air dynamic viscosity, Pascal * second
 
+Re: Reynolds number
+
+CHA_m2: Convex hull projection area in meters^2
+
+CHA_pix2: Convex hull projection area in pix^2
