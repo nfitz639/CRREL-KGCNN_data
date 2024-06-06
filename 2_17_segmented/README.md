@@ -1,5 +1,4 @@
-Variables in 2_17_partdat.csv are as follows:
-
+# Variables in 2_17_partdat.csv are as follows:
 num: integer index
 
 id: image file name
