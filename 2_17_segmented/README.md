@@ -14,3 +14,15 @@ fm_diff: number of frames between first and last appearance of snowflake
 
 fm: frame number where snowflake is found
 
+dmax_pix: maximum dimension of snowflake in pixels
+
+dmax_m: maximum dimension of snowflake in meters
+
+scale_mmperpix: scale in image, units mm/pixel
+
+fps: frames per second
+
+airdens_kgm3: air density, kg/m^3
+
+air dynamic viscosity: Pascal * second
+
