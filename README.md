@@ -3,4 +3,4 @@ This repository contains datasets collected by a GoPro 11 using the experimental
 
 2_17_segmented contains the manually sampled snowflake images from February 17th, 2024 with measurements of velocity and size. This data may be taken and used in conjunction with the KGCNN detailed in the main KGCNN repository to estimate drag coefficient, mass, density, etc..
 
-GoPro extracted images contains sets of GoPro video extracted into individual frames and downsampled to save storage and computation time. Each file is from January
+GoPro extracted images contains sets of GoPro video extracted into individual frames and downsampled to save storage and computation time. Each file is from January 7th, 2024 with a timestamp and video duration in the name (e.g. 1140 = 11:40, 159min = 1 minute 59 second duration). These files are intended for use with the sample PTV code using Trackpy provided in 
