@@ -1,3 +1,4 @@
+# Each data file contains snowflakes sampled in the previous ten minutes (e.g. 1110 = 11:00 - 11:10)
 # Variable names for LD .csv files:
 v_ms: particle velocity bins in meters/second
 
