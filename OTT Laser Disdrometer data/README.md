@@ -1,1 +1,8 @@
+# Variable names for LD .csv files:
+v_ms: particle velocity bins in meters/second
 
+d_mm: particle diameter bins in mm/second
+
+class: integer class
+
+count: number of particles in bin
